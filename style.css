@@ -1,5 +1,3 @@
-
-
 #containner{
     height: auto;
     width: auto;
@@ -233,22 +231,13 @@ h3{
     margin-left: 300px;
 }
 
-#rectancle3{
-    float: center;
-    width: 700px;
-    height: 1px;
-    background:rgb(0, 0, 0);
-    margin-top: 450px;
-    margin-left: 300px;
-}
-
 #Academica{
     float: center;
     width: 800px;
     height: 200px;
     background:rgb(255, 255, 255);
     box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
-    margin-top: 50px;
+    margin-top: 500px;
     margin-left: 250px;
 }
 
@@ -266,15 +255,6 @@ h3{
     color: black;
     margin-right: 300px;
     margin-top: 32px;
-}
-
-#rectancle4{
-    float: center;
-    width: 700px;
-    height: 1px;
-    background:rgb(0, 0, 0);
-    margin-top: 50px;
-    margin-left: 300px;
 }
 
 #ExperienceImg{
@@ -352,10 +332,17 @@ h3{
     font-size: 12pt;
 }
 
-#rectancle5{
-    float: center;
-    width: 2500px;
-    height: 30px;
-    background:rgb(0, 0, 0);
-    margin-top: 750px;
+#line3{
+    margin-top: 650px;
+    width: 5000px;
+}
+
+#line4{
+    margin-top: -252px;
+    width: 5000px;
+}
+
+#line5{
+    margin-top: 1000px;
+    width: 5000px;
 }
