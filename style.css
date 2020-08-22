@@ -1,0 +1,361 @@
+
+
+#containner{
+    height: auto;
+    width: auto;
+    margin-left: -8px;
+    margin-right: -8px;
+    font-family: "apercu",sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #202121;
+    background: #f7f7f7e3;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+h1{
+    color: black;
+    text-align: left;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 10;
+    line-height: 5vh;
+    font-style: normal;
+    color: black;
+    text-align: left;
+}
+
+#style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#head{
+    margin-top: -25px;
+    height: 70px;
+    background-color: #ffffff;
+}
+
+#iconeHappyFace{
+    margin-left: -15px;
+    margin-top: 15px;
+    float: left;
+    width: 3%;
+}
+
+#iconeText{
+    font-family: "Roboto Condensed";
+    font-weight: 400;
+    font-size: 15pt;
+    float: left;
+    line-height: 1.4;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#banner{
+    height: 400px;
+    width: auto;
+}
+
+#imgBanner{
+    height: 400px;
+    width: 2500px;
+    margin-left: -1000px;
+    margin-top: -20px;
+}
+
+#bannerText{
+    font-family: "Roboto Condensed";
+    font-size: 35pt;
+    font-style: italic;
+    color: #f3f3f3;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    float: center;
+    text-align: center;
+    margin-top: -220px;
+}
+
+#rectancle{
+    width: 2500px;
+    height: 10px;
+    background:rgb(255, 206, 72);
+    margin-top: -20px;
+}
+
+#hello{   
+    float: left;
+    width: 650px;
+    height: 40px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: 20px;
+    margin-left: 550px;
+}
+
+#helloText{
+    float: right;
+    margin-top: -38px;
+    margin-right: 160px;
+    font-size: 16pt;
+
+}
+
+#imgPresentation{
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    float: left;
+    width: 500px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#recToDiscrpition{
+    float: left;
+    width: 580px;
+    height: 250px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: -505px;
+    margin-left: 620px;
+}
+
+#press{
+    float: right;
+    margin-top: -480px;
+    margin-right: 345px;
+    font-size: 25pt;
+}
+
+#description{
+    font-weight: lighter;
+    text-align: justify;
+    font-size: 14pt;
+    float: left;
+    margin-top: -450px;
+    margin-right: 40px;
+    margin-left: 635px;
+}
+
+#social{
+    margin-left: 850px;
+}
+
+#Linkedin{
+    float: left;
+    max-width:30px;
+    max-height:30px;
+    margin-top: -310px;
+    margin-left: -50px;
+}
+
+#instagram{
+    float: left;
+    max-width:30px;
+    max-height:30px;
+    margin-left: 50px;
+    margin-top: -310px;
+}
+
+#facebook{
+    float: left;
+    max-width:30px;
+    max-height:30px;
+    margin-top: -310px;
+}
+
+#contact{
+    float: left;
+    width: 580px;
+    height: 248px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: -250px;
+    margin-left: 620px;
+}
+
+#descriptionTwo{
+    float: left;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 14pt;
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    line-height: 25px;
+}
+
+#objetivos{
+    float: left;
+    width: 580px;
+    height: 155px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: 60px;
+    margin-left: 110px;
+}
+
+#objectives{
+    font-weight: lighter;
+    text-align: justify;
+    font-size: 14pt;
+    float: left; 
+    margin-top: 5pt;
+    margin-right: 100px;
+    margin-left: 40px;
+}
+
+#format{
+    float: left;
+    margin-left: -550px;
+    margin-top: 80px;
+}
+
+#AcademicaImg{
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    float: right;
+    width: 500px;
+    margin-right: 91.7px;
+    margin-top: 47px;
+}
+
+#rectancle2{
+    float: center;
+    width: 700px;
+    height: 1px;
+    background:rgb(0, 0, 0);
+    margin-top: 650px;
+    margin-left: 300px;
+}
+
+#rectancle3{
+    float: center;
+    width: 700px;
+    height: 1px;
+    background:rgb(0, 0, 0);
+    margin-top: 450px;
+    margin-left: 300px;
+}
+
+#Academica{
+    float: center;
+    width: 800px;
+    height: 200px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+#AcademicaText{
+    font-weight: lighter;
+    text-align: center;
+    font-size: 12pt;
+    float: right; 
+    margin-top: 5pt;
+    margin-right: 80px;
+}
+
+#AcademicaTitle{
+    float: right;
+    color: black;
+    margin-right: 300px;
+    margin-top: 32px;
+}
+
+#rectancle4{
+    float: center;
+    width: 700px;
+    height: 1px;
+    background:rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+#ExperienceImg{
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    float: left;
+    width: 500px;
+    height: 545px;
+    margin-left: 82px;
+    margin-top: 15px;
+}
+
+#Experience{
+    float: right;
+    width: 500px;
+    height: 85px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: 47px;
+    margin-right: 727px;
+}
+
+#textExp{
+    float: left;
+    margin-left: 20px;
+}
+
+#textExp2{
+    float: left;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+#cursos{
+    float: right;
+    width: 580px;
+    height: 300px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: -85px;
+    margin-right: 130px;
+}
+
+#cursosTitle{
+    float: left;
+    margin-left: 20px;
+}
+
+#cursosTable{
+    float: left;
+    line-height: 25px;
+    margin-top: -35px;
+    font-size: 12pt;
+}
+
+#infor{
+    float: right;
+    width: 580px;
+    height: 330px;
+    background:rgb(255, 255, 255);
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+    margin-top: 15px;
+    margin-right: 130px;
+}
+
+#inforText{
+    float: left;
+    margin-top: -320px;
+    margin-left: 20px;
+}
+
+#inforTable{
+    float: left;
+    line-height: 25px;
+    margin-top: 25px;
+    font-size: 12pt;
+}
+
+#rectancle5{
+    float: center;
+    width: 2500px;
+    height: 30px;
+    background:rgb(0, 0, 0);
+    margin-top: 750px;
+}
